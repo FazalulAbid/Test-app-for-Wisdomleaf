@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
     private NestedScrollView nestedScrollView;
     private RecyclerView recyclerView;
     private ProgressBar progressBar;
-    private GridLayoutManager layoutManager;
     private RecyclerViewAdapter recyclerViewAdapter;
     private RecyclerViewAdapter.RecyclerViewClickListener listener;
     AlertDialog alertDialog;

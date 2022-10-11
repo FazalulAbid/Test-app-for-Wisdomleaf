@@ -13,7 +13,7 @@ public class SplashScreen extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash_screen);
 
-        //Finish splash screen after 3 sec and goto MainActivity
+        //Finish splash screen after 5 sec and goto MainActivity
         new Handler().postDelayed(new Runnable(){
             @Override
             public void run() {
