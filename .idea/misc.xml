@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/rahman-nizam/AndroidStudioProjects/MyTestAppforWisdomleaf/app/src/main/res/layout-v16/card_list.xml" value="0.4" />
         <entry key="..\:/Users/rahman-nizam/AndroidStudioProjects/MyTestAppforWisdomleaf/app/src/main/res/layout/activity_main.xml" value="0.259375" />
         <entry key="..\:/Users/rahman-nizam/AndroidStudioProjects/MyTestAppforWisdomleaf/app/src/main/res/layout/activity_splash_screen.xml" value="0.259375" />
-        <entry key="..\:/Users/rahman-nizam/AndroidStudioProjects/MyTestAppforWisdomleaf/app/src/main/res/layout/card_list.xml" value="0.259375" />
+        <entry key="..\:/Users/rahman-nizam/AndroidStudioProjects/MyTestAppforWisdomleaf/app/src/main/res/layout/card_item_progress.xml" value="0.259375" />
+        <entry key="..\:/Users/rahman-nizam/AndroidStudioProjects/MyTestAppforWisdomleaf/app/src/main/res/layout/card_list.xml" value="0.5699873896595208" />
+        <entry key="..\:/Users/rahman-nizam/AndroidStudioProjects/MyTestAppforWisdomleaf/app/src/main/res/layout/error_layout.xml" value="0.259375" />
       </map>
     </option>
   </component>

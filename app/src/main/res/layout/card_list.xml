@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_marginLeft="10dp"
@@ -21,8 +22,10 @@
             app:cardCornerRadius="10dp">
 
             <ImageView
+                android:id="@+id/card_image"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:scaleType="centerCrop"
                 android:src="@color/pink" />
         </androidx.cardview.widget.CardView>
 
@@ -34,18 +37,18 @@
             android:orientation="vertical">
 
             <TextView
+                android:id="@+id/card_tv_head"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/roboto_bold"
-                android:text="Head"
                 android:textColor="@color/black"
                 android:textSize="18sp" />
 
             <TextView
+                android:id="@+id/card_tv_desc"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:fontFamily="@font/roboto"
-                android:text="Description" />
+                android:fontFamily="@font/roboto" />
 
         </LinearLayout>
     </LinearLayout>
